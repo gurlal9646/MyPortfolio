@@ -1,29 +1,4 @@
-/*!
 
- =========================================================
- * Now-ui-kit - v1.1.0
- =========================================================
-
- * Product Page: http://www.creative-tim.com/product/now-ui-kit
- * Copyright 2017 Creative Tim (http://www.creative-tim.com)
- * Licensed under MIT (https://github.com/creativetimofficial/now-ui-kit/blob/master/LICENSE.md)
-
- * Designed by www.invisionapp.com Coded by www.creative-tim.com
-
- =========================================================
-
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
- */
-/*     brand Colors              */
-/*      light colors         */
-/* ========================================================================
- * bootstrap-switch - v3.3.2
- * http://www.bootstrap-switch.org
- * ========================================================================
- * Copyright 2012-2013 Mattia Larentis
- * http://www.apache.org/licenses/LICENSE-2.0
- */
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
@@ -1254,7 +1229,7 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #2CA8FF;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
@@ -2275,7 +2250,7 @@ p {
   color: #9A9A9A; }
 
 .text-primary {
-  color: #378C3F !important; }
+  color: #2CA8FF !important; }
 
 .text-info {
   color: #2CA8FF !important; }
@@ -2575,7 +2550,6 @@ body {
   .navbar .button-dropdown .navbar-toggler-bar:nth-child(2) {
     width: 17px; }
   .navbar.navbar-transparent {
-    background-color: transparent !important;
     box-shadow: none;
     color: #FFFFFF;
     padding-top: 20px; }
@@ -2598,7 +2572,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #378C3F !important; }
+  background-color: #2CA8FF !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
