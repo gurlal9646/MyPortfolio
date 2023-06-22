@@ -5258,3 +5258,6 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+  li{
+    list-style: none;
+  }
